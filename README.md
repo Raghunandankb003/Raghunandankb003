@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raghunandankb003
 - 👀 I’m interested in fascinating world of data science, where I can uncover insights and patterns from data to drive informed decisions.
-- 🌱 I’m currently working on few intresting Data Science and Analytical Projects.
+- 🌱 I’m currently working on few interesting Data Science and Analytical Projects.
 - 💞️ I’m looking to collaborate on data science projects that challenge and enhance my skills.
 - 📫 How to reach me: drop me an email at [itsmeraghunandankb003@gmail.com]
 - 😄 Pronouns: He/Him
